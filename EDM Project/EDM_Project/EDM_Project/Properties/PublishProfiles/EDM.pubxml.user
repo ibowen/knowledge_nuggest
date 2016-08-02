@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>12/03/2015 23:03:59</publishTime>
+    </File>
+    <File Include="bin/EDM_Project.dll">
+      <publishTime>12/11/2015 20:49:18</publishTime>
+    </File>
+    <File Include="BuyKnowledge.aspx">
+      <publishTime>12/11/2015 19:04:54</publishTime>
+    </File>
+    <File Include="CustProfile.aspx">
+      <publishTime>12/07/2015 12:16:01</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>12/07/2015 12:02:53</publishTime>
+    </File>
+    <File Include="EDM.css">
+      <publishTime>12/06/2015 18:28:05</publishTime>
+    </File>
+    <File Include="EDMreset.css">
+      <publishTime>12/07/2015 11:25:53</publishTime>
+    </File>
+    <File Include="Images/Logo.png">
+      <publishTime>12/06/2015 17:45:40</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>12/11/2015 19:26:17</publishTime>
+    </File>
+    <File Include="Report.aspx">
+      <publishTime>12/11/2015 19:03:25</publishTime>
+    </File>
+    <File Include="ViewCustomers.aspx">
+      <publishTime>12/11/2015 19:07:37</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/11/2015 20:49:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+c:\users\sony\documents\visual studio 2012\Projects\EDM_Project\EDM_Project\bin\EDM_Project.dll
+c:\users\sony\documents\visual studio 2012\Projects\EDM_Project\EDM_Project\bin\EDM_Project.pdb
+c:\users\sony\documents\visual studio 2012\Projects\EDM_Project\EDM_Project\obj\Debug\EDM_Project.csprojResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2012\Projects\EDM_Project\EDM_Project\obj\Debug\EDM_Project.dll
+c:\users\sony\documents\visual studio 2012\Projects\EDM_Project\EDM_Project\obj\Debug\EDM_Project.pdb
+C:\Users\Sony\Documents\Visual Studio 2012\Projects\EDM_Project\EDM_Project\bin\AjaxControlToolkit.dll
